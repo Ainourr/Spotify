@@ -1,0 +1,199 @@
+ 
+ *{
+      margin: 0;
+      text-decoration: none;
+
+ }
+ 
+
+ /* header */
+
+ header nav{
+     background:#000;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 0 100px;
+     height: 80px;
+ }
+
+
+ .svg{
+     width: 132px;
+     height: 40px;
+ }
+ 
+
+ .nav a,
+ span{
+     padding: 20px;
+     width: 30%;
+     color: white;
+ }
+
+
+ /* section  */
+ section{
+     background: #993399;
+ }
+
+ 
+ .DIV{
+     display: flex;
+     padding: 55px 58px;
+     color: #fff;
+    
+    
+ }
+ .div-1{
+     flex-direction: column;
+     text-align:left;
+     
+    
+    
+    
+ }
+ .DIV .div-1 .p1{
+     padding: 0 0 10px ;
+     margin: 0 0 8px;
+     font-size: 18px;
+    
+
+ }
+
+ .DIV .div-1 .h1{
+    font-size: 60px;
+ }
+ .DIV .div-1 .h2{
+     font-size: 24px;
+     margin: 30px 0 0 ;
+ } 
+ .DIV div{
+     padding: 35px 0 0;
+ }
+
+ .DIV .div-1 .p2{
+     margin: 30px 0 0;
+     padding: 0 0 12px;
+     font-size: 16px;
+ }
+ .div-1 button{
+     font-size: 18px;
+     padding: 14px  32px;
+     border: none;
+     border-radius: 30px;
+     background: #000;
+ }
+ button a{
+     color: #fff;
+ }
+ .div-1,
+ .rndm{
+     display: flex;
+   
+ }
+ .rndm{
+     width: 400px;
+     height: 400px;
+     padding: 100px 0 100px 30px;
+ }
+ /* footer */
+ footer{
+     background:#000 ;
+    
+ }
+ .footer{
+     color: #fff;
+     display: flex;
+     padding:  65px;
+     margin: 0 48px;
+ }
+ .SVG{
+     padding-right: 66px ;
+ }
+ .links{
+     display: flex;
+ }
+ .links span{
+     font-size: 14px;
+     padding-left: 0;
+     color: #919496;
+ }
+ .links ul{
+     list-style-type: none;
+ }
+ .clmn1,
+ .clmn2,
+ .clmn3,
+ .icons{
+     padding: 14px;
+     margin-left: 30px;
+ }
+ .clmn1 div,
+ .clmn2 div,
+ .clmn3 div{
+     padding: 4px;
+ } 
+ .icons ul li {
+    border-radius: 50%;
+    background: #222326;
+    width: 54px;
+    height: 54px;
+    line-height: 54px;
+ }
+ .icons ul{
+     display: flex;
+     margin: 20px 0 0;
+     list-style-type: none;
+     text-align: center;
+ }
+ .icons div{
+     padding: 0 9px;
+ }
+ li a,
+ .icons,
+ div a{
+     color: #fff;
+     font-size: 18px;
+ }
+ .icons{
+     padding: 0 15px 0 183px;
+ }
+ .icons ul li a{
+     text-decoration: none;
+ }
+ .END{
+     display: flex;
+     justify-content: flex-end;
+     padding-right: 143px; 
+ }
+ .END a,
+ .END .lang{
+    font-size: 14px;
+ }
+ .end ul{
+     list-style-type: none;
+     display: flex;
+ }
+ .end ul li{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+ }
+ .end ul li a{
+    font-size: 14px;
+ }
+ .end ul span{
+     display: flex;
+     justify-content: flex-end;
+     font-size: 12px;
+     padding-left: 60px;
+ }
+  
+ 
+
+
+
+
+ 
+
